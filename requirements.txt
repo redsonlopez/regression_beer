@@ -1,0 +1,6 @@
+jupyterlab
+mlxtend
+numpy
+pandas
+scikit-learn
+seaborn
